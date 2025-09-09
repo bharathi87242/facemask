@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Vision: Face Mask Detector",
+  "description": "An advanced AI-powered application that uses your device's camera and the Gemini Vision API to detect in real-time whether individuals are wearing face masks.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
